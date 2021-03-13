@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge.Test", "..\Challe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge.Lib", "Challenge.Lib\Challenge.Lib.csproj", "{C43BBF74-E07C-4533-9E52-CDAFECAAF0E1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge.Function", "Challenge.Function\Challenge.Function.csproj", "{68B90668-5DBD-4ECC-B9F8-F16405261A2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C43BBF74-E07C-4533-9E52-CDAFECAAF0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C43BBF74-E07C-4533-9E52-CDAFECAAF0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C43BBF74-E07C-4533-9E52-CDAFECAAF0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B90668-5DBD-4ECC-B9F8-F16405261A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B90668-5DBD-4ECC-B9F8-F16405261A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B90668-5DBD-4ECC-B9F8-F16405261A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B90668-5DBD-4ECC-B9F8-F16405261A2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
